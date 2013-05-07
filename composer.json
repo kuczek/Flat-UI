@@ -1,9 +1,8 @@
 {
-    "name": "designmodo/flat-ui", 
-    "description": "Flat UI Free Web User Interface Kit",
-    "keywords": ["bootstrap", "css"],
-    "homepage": "http://designmodo.github.io/Flat-UI/"
-    "author": "Designmodo"
-    "license": "MIT"
-
+	"name": "designmodo/flat-ui",
+	"description": "Flat UI Free Web User Interface Kit",
+	"keywords": ["bootstrap", "css"],
+	"homepage": "http://designmodo.github.io/Flat-UI/",
+	"author": "Designmodo",
+	"license": "MIT"
 }
